@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdncrypt",
+        "uuid": 229400,
+        "checksum": "3fh8d"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
